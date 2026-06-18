@@ -3,7 +3,7 @@
 <!-- Typing banner -->
 
 <a href="https://github.com/CodeByJosey">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Josey+%F0%9F%91%8B;Computer+Science+Student;Software+Developer+%40+Bonsai+Software;Always+learning%2C+always+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Josey+%F0%9F%91%8B;Computer+Science+Student;AI+Engineer+%40+Bonsai+Software;Always+learning%2C+always+building" alt="Typing SVG" />
 </a>
 
 <br/>

@@ -1,23 +1,123 @@
-# 💫 About Me:
-Hello! 👋
-I'm a passionated second year Computer Science student at the Rotterdam University of Applied Sciences.
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/josey.va) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/josey-van-aarsen-028b7015a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joseyvanaarsen@gmail.com) 
+<!-- Typing banner -->
 
-# 💻 I have worked with:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+<a href="https://github.com/CodeByJosey">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Josey+%F0%9F%91%8B;Computer+Science+Student;Software+Developer+%40+Bonsai+Software;Always+learning%2C+always+building" alt="Typing SVG" />
+</a>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=CodeByJosey&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=CodeByJosey&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByJosey&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=CodeByJosey&theme=github_dark&no-frame=false&no-bg=true&margin-w=4)
+<!-- Socials -->
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/josey-van-aarsen-028b7015a)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/josey.va)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josey@bonsaisoftware.nl)
+
+<!-- Profile views -->
+
+<img src="https://komarev.com/ghpvc/?username=CodeByJosey&style=for-the-badge&color=7AA2F7&label=PROFILE+VIEWS" alt="Profile views" />
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=CodeByJosey&icon=0&color=1)](https://visitcount.itsvg.in)
+
+## 💫 About Me
+
+```yaml
+name:        Josey van Aarsen
+role:        AI Engineer @ Bonsai Software
+education:   2nd-year Computer Science @ Rotterdam University of Applied Sciences
+location:    Netherlands 🇳🇱
+focus:       Building clean, reliable software & always leveling up
+fun_fact:    "I turn caffeine ☕ into code."
+```
+
+- 🎓 Second-year **Computer Science** student at the Rotterdam University of Applied Sciences
+- 💼 AI Engineer at **[Bonsai Software](https://bonsaisoftware.nl)**
+- 🌱 Currently sharpening my skills in full-stack development
+- 💬 Ask me about **C#, .NET, Java, TypeScript, Python & web development**
+- ⚡ Driven, curious, and always up for a new challenge
+
+---
+
+## 🛠️ Tech Stack
+
+#### Languages
+
+![C#](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+#### Frameworks & Libraries
+
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+#### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+#### Tools
+
+![Git](https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodeByJosey&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="Josey's GitHub stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByJosey&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top languages" />
+
+<br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=CodeByJosey&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=CodeByJosey&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/CodeByJosey/CodeByJosey/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+### ✍️ Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+  <i>⭐️ Thanks for stopping by — let's build something great!</i>
+</div>
